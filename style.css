@@ -180,3 +180,16 @@ main {
     font-weight: bold;
     margin-top: 5px;
 }
+
+
+
+/* footer */
+footer {
+    margin-top: 100px;
+}
+footer div {
+    background-color: #E95837;
+}
+footer div span {
+    color: white;
+}
