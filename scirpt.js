@@ -65,6 +65,8 @@ newPostBtn.addEventListener('click', () => {
 });
 
 
+
+
 // publish new article (in blog container)
 const blogContainer = document.querySelector(".blog-container");
 const publishArticleBtn = document.querySelector("#post-article");
@@ -95,5 +97,4 @@ publishArticleBtn.addEventListener('click', (e) => {
         document.querySelector('#article-published-card').style.top = "105vh";
     }, 2200);
 });
-
 
